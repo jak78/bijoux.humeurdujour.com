@@ -49,8 +49,9 @@ table {
 
 /* Custom */
 body {
-    padding: 10px;
-    font-family: Verdana, Helvetica, sans-serif;
+   margin: 3em;
+   font-family: Verdana, Helvetica, sans-serif;
+   max-width: 960px;
 }
 .logo {
     padding-bottom: 20px;
@@ -61,4 +62,15 @@ h1 {
     font-size: 1.6em;
     width: 100%;
     margin: 1em 0;
+    color: #555555;
+}
+p {
+	padding: 0.5em;
+	color: #0938C4;
+	line-height: 1.5em;
+}
+a {
+	color: #0938C4;
+	text-decoration: none;
+	border-bottom: 1px solid #B70037;
 }
