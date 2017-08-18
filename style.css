@@ -86,6 +86,12 @@ a {
     border-bottom: 1px solid #B70037;
 }
 
+footer {
+    color: #555555;
+    font-size: 0.8em;
+    padding-top: 2em;
+}
+
 /* latin-ext */
 @font-face {
     font-family: 'Dancing Script';
