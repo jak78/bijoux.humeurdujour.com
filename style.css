@@ -79,6 +79,12 @@ p {
     color: #0938C4;
     line-height: 1.5em;
 }
+li {
+    color: #0938C4;
+    line-height: 1.5em;
+    margin-left: 2em;
+    list-style-type: circle;
+}
 
 a {
     color: #0938C4;
