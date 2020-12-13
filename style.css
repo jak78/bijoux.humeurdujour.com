@@ -92,6 +92,10 @@ a {
     border-bottom: 1px solid #B70037;
 }
 
+strong {
+    font-weight: bolder;
+    font-style: italic;
+}
 footer {
     color: #555555;
     font-size: 0.8em;
