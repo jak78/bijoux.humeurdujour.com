@@ -57,7 +57,7 @@ table {
 /* Custom */
 body {
     margin: 0 3em;
-    font-family: "Open Sans", Verdana, Helvetica, sans-serif;
+    font-family: Verdana, Helvetica, sans-serif;
     max-width: 760px;
 }
 
@@ -93,7 +93,7 @@ a {
 }
 
 strong {
-    font-weight: bolder;
+    font-weight: bold;
 }
 
 em {
