@@ -94,8 +94,12 @@ a {
 
 strong {
     font-weight: bolder;
+}
+
+em {
     font-style: italic;
 }
+
 footer {
     color: #555555;
     font-size: 0.8em;
