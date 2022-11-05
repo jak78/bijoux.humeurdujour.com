@@ -66,12 +66,17 @@ body {
     height: auto;
 }
 
+@font-face {
+    font-family: "Sail";
+    src: url("./sail.otf");
+}
+
 h1 {
     font-size: 2.5em;
     width: 100%;
     margin: 0.5em 0;
     color: #555555;
-    font-family: "Dancing Script", Verdana, Helvetica, sans-serif;
+    font-family: "Sail", Verdana, Helvetica, sans-serif;
 }
 
 p {
